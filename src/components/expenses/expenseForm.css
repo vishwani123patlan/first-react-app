@@ -1,0 +1,26 @@
+.expense-form-container{
+    display: flex !important;
+    margin: 2em 20em 0em 20em;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: rgb(238, 212, 212);
+}
+
+.form-two-field{
+    display: flex;
+    justify-content: space-between;
+}
+.form-two-field .form-controls{
+    padding: 18px;
+}
+
+.submit-button{
+    padding: 15px;
+}
+
+.submit-button button{
+    padding: 8px;
+    font-size: larger;
+    font-weight: 800;
+    color: blueviolet;
+}

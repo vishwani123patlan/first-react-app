@@ -1,0 +1,41 @@
+body {
+    background-color: #e9dede !important;
+  }
+  
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 15px;
+  }
+  
+  .box {
+    width: auto;
+    margin: 0 auto;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .icon {
+    font-size: 35px;
+    color: #ffffff;
+  }
+
+  .icons{
+    font-size: 20px;;
+  }
+
+  .winnerName{
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .winModal > .modal-content{
+    background-color: #d4b60c36;
+    opacity: 1;
+  }
+
+ 

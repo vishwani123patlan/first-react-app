@@ -1,0 +1,26 @@
+.expensa-item{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    color: white;
+    padding: 10px;
+    font-size: 25px;
+}
+
+.expense-price{
+    background-color: blueviolet;
+    padding-left: 7px;
+    padding-right: 7px;
+    border-radius: 5px;
+}
+
+.expense-date{
+    text-align: center;
+    padding: 2px;
+}
+
+.expense-material{
+    text-align: start;
+    float: left;
+}
